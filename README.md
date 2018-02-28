@@ -1,0 +1,1 @@
+mapAdapter is a library to easy switch between map libraries such as Google Maps and MapBox.
